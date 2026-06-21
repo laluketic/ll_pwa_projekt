@@ -1,0 +1,13 @@
+ADMIN: 
+Lana Luketić
+user: admin
+pass: admin123
+
+KORISNICI:
+Ana Prezime
+user: korisnik2
+pass: korisnik123
+
+Ime Prezime
+user: korisnik1
+pass: korisnik123
